@@ -1,5 +1,5 @@
-[submodule "Lab1-Bitwise_and_Structs"]
-	path = Lab1-Bitwise_and_Structs
+[submodule "Lab1-Bitwise_and_pointers-Template"]
+	path = Lab1-Bitwise_and_pointers-Template
 	url = https://github.com/RobertJAlvarez/Lab1-Bitwise_and_pointers-Template.git
 [submodule "Lab2.1-Arrays-Template"]
 	path = Lab2.1-Arrays-Template
