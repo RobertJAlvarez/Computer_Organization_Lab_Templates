@@ -1,0 +1,9 @@
+[submodule "Lab1-Bitwise_and_Structs"]
+	path = Lab1-Bitwise_and_Structs
+	url = https://github.com/RobertJAlvarez/Lab1-Bitwise_and_pointers-Template.git
+[submodule "Lab2.1-Arrays-Template"]
+	path = Lab2.1-Arrays-Template
+	url = https://github.com/RobertJAlvarez/Lab2.1-Arrays-Template.git
+[submodule "Lab2.2-Memory-Template"]
+	path = Lab2.2-Memory-Template
+	url = https://github.com/RobertJAlvarez/Lab2.2-Memory-Template.git
