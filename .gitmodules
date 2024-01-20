@@ -7,3 +7,6 @@
 [submodule "Lab2.2-Memory-Template"]
 	path = Lab2.2-Memory-Template
 	url = https://github.com/RobertJAlvarez/Lab2.2-Memory-Template.git
+[submodule "Lab4-Disassembler-Template"]
+	path = Lab4-Disassembler-Template
+	url = https://github.com/RobertJAlvarez/Lab4-Disassembler-Template.git
