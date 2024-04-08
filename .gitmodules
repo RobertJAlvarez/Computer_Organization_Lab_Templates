@@ -10,9 +10,6 @@
 [submodule "Lab2.2-RV32_Interpreter"]
 	path = Lab2.2-RV32_Interpreter
 	url = https://github.com/RobertJAlvarez/Lab2.2-RV32_Interpreter.git
-[submodule "Lab4-Disassembler-Template"]
-	path = Lab4-Disassembler-Template
-	url = https://github.com/RobertJAlvarez/Lab4-Disassembler-Template.git
 [submodule "Lab3-Expression_Compiler-Template"]
 	path = Lab3-Expression_Compiler-Template
 	url = https://github.com/RobertJAlvarez/Lab3-Expression_Compiler-Template.git
