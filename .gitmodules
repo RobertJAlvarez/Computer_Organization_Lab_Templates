@@ -13,3 +13,6 @@
 [submodule "Lab3-Expression_Compiler-Template"]
 	path = Lab3-Expression_Compiler-Template
 	url = https://github.com/RobertJAlvarez/Lab3-Expression_Compiler-Template.git
+[submodule "Lab4-RISCV32_Logism_Template"]
+	path = Lab4-RISCV32_Logism_Template
+	url = https://github.com/RobertJAlvarez/Lab4-RISCV32_Logism_Template.git
